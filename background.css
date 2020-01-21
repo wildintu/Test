@@ -1,0 +1,32 @@
+body {
+    font-family: 'LATO', sans-serif;
+    margin: 0;
+    background: url('./milkyway.jpg');
+    background-size: cover;
+    background-position: ;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+form {
+    padding: 1em;
+    margin: 0 auto;
+    width: 116px;
+    border: 1px solid black;
+    box-shadow: 7px 13px 30px -4px rgba(0,0,0,0.75);
+    background: url('./milkyway.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+}

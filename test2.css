@@ -1,0 +1,27 @@
+.box {
+    height: 10em;
+    width: 10em;
+    float: left;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+    float: left;
+}
+
+.green {
+    background: green;
+}
+
+.purple {
+    background: purple;
+}
+
+.border-yellow {
+    border: 5px solid goldenrod;
+    box-sizing: border-box;
+}

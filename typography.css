@@ -1,0 +1,17 @@
+label, input {
+    display: block;
+}
+
+body {
+    font-family: 'Lato'; sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline overline line-through;
+    color: red;
+    font-size: 5em;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+input, label {
+    display: block;
+}
+
+main {
+    margin-left: 3em;
+}
+
+button {
+    margin: 1em 0;
+    padding: 1em;
+}
